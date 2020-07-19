@@ -1,7 +1,7 @@
 ## spring-boot-metrics
 Projeto para teste do uso do Spring Boot com Actuator, Micrometer, Prometheus e Grafana. Esta POC foi baseada nos artigos do autor Felipe da Rosa nos links abaixo:
 
- [Link Parte 1] - Monitorando uma aplicação Spring Boot (2.x) utilizando Actuator, Micrometer, Prometheus e Grafana (1ª Parte — Actuator) 
+ [Link Parte 1] - Monitorando uma aplicação Spring Boot (2.x) utilizando Actuator, Micrometer, Prometheus e Grafana (1ª Parte — Actuator)            
  [Link Parte 2] - Monitorando uma aplicação Spring Boot (2.x) utilizando Actuator, Micrometer, Prometheus e Grafana (2ª Parte — Prometheus e Grafana) 
 
 Será usado aqui as seguintes tecnologias/frameworks/ferramentas:
