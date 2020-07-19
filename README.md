@@ -70,8 +70,7 @@ localhost:8087
 
 ## Execução das métricas com Actuator, Prometheus e Grafana
 
-Subi a aplicação
-Verificar as opções disponíveis usando o actuator
+Subi a aplicação e verificar as opções disponíveis usando o actuator
 
 ```sh
 http://localhost:8087/actuator
